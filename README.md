@@ -1,2 +1,3 @@
 # AngularSample
-A simple sample project in Angular.
+
+Software created exclusively to put some sample code online.
